@@ -1,1 +1,1 @@
-# nlp_aug_lexical_wordnet
+## NLP augmentation using Wordnet synonyms
